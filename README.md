@@ -22,7 +22,7 @@
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBorgesSouza&theme=nightowl&layout=compact)  
  
- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=GustavoBorgesSouza&theme=radical&layout=compact)
+ ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=GustavoBorgesSouza&theme=nightowl&layout=compact)
 <!--
 **GustavoBorgesSouza/GustavoBorgesSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
