@@ -20,7 +20,7 @@
 
  ## Estatísticas 📈
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBorgesSouza&theme=radical&layout=compact)  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBorgesSouza&theme=nightowl&layout=compact)  
  
  ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=GustavoBorgesSouza&theme=radical&layout=compact)
 <!--
