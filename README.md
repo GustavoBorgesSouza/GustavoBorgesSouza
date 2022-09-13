@@ -1,6 +1,6 @@
  ## 💻🎴👨‍💻Gustavo Borges de Souza👨‍💻🎴💻
 ### Bom dia 👋
- Meu nome é Gustavo, sou um desenvolvedor de sistemas em busca de oportunidades.
+ Meu nome é Gustavo, sou um desenvolvedor fullstack web em busca de oportunidades.
  - 📚 Estudando novas tecnologias.
  - 🧐 Disposto e aberto a novas oportunidades.
  - 💻 Entusiasta por tecnolgia, ciência e inovação
