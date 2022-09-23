@@ -14,7 +14,6 @@
 > 
 > ⌛ **“Good times become good Memories, but bad times make good lessons”** ⌛
 
-<br>
 
  ## Contate-me em:
 
@@ -23,7 +22,7 @@
 
   ## Tecnologias 🛠
  
- ### Front-End - Desenvolvimento Web e para dispositivos móveis:
+ ### Front-End - Desenvolvimento Web e para dispositivos móveis
  
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -34,7 +33,7 @@
  
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
  
- ### Back-End - APIs REST:
+ ### Back-End - APIs REST
  
  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -58,9 +57,7 @@
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBorgesSouza&theme=nightowl&layout=compact)  
  
- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=GustavoBorgesSouza&theme=nightowl&layout=compact)
- 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=GustavoBorgesSouza&theme=nightowl)](https://git.io/streak-stats)
+ ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=GustavoBorgesSouza&theme=nightowl&layout=compact) 
  
  </div>
 <!--
@@ -76,4 +73,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=GustavoBorgesSouza&theme=nightowl)](https://git.io/streak-stats)
 -->
