@@ -14,6 +14,8 @@
 > 
 > ⌛ **“Good times become good Memories, but bad times make good lessons”** ⌛
 
+> 💡 *“Quem sabe sabe, quem não sabe aprende!”**💡
+
 
  ## Contate-me em:
 
